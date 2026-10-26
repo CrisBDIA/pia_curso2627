@@ -1,2 +1,3 @@
-# pia_curso2627
-AI Programming repository for the AI &amp; Big Data Specialization Program (2026/2027) at IES Lomo de la Herradura.
+# **Programación de Inteligencia Artificial**
+ Introducción a la programación de IA  
+ *Tarea 1.1. Introducción a Google Colab y GitHub*
